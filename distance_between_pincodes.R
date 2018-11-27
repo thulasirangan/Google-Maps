@@ -3,7 +3,7 @@ library(mapsapi)
 
 doc = mp_matrix(
   origins = '85001',
-  destinations = '99501', key = 'AIzaSyCoF_GdEyytZPRS852RRNJdAHHQ8-IuJOk'
+  destinations = '99501', key = '<API KEY>'
 )
 #get the API key from GCP
 
